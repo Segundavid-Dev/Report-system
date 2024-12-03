@@ -4,7 +4,7 @@ How to run the Report Management System (CMS) Project
 
 2. Extract the file and copy cms folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -21,3 +21,9 @@ Username: admin, Password: Test@123
 
 Credential for user panel: 
 Username: grmat@test.com ,Password: Test@123
+
+
+
+
+
+!This project was followed from a youtube tutorial that guided me through the process of building a functional app such as this. I customized the design and added additional features, to further challenge myself and strengthen my skills in relevant technologies
